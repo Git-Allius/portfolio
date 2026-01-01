@@ -61,6 +61,7 @@ p {
 
 .code-link:hover {
     text-decoration: underline;
+}
 
 .title {
     text-align: center;
@@ -334,5 +335,4 @@ p {
     .profile img {
       max-width: 100%;
     }
-
   }
