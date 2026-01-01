@@ -54,6 +54,14 @@ p {
     color: white;
 }  
 
+.code-link {
+    color: #1DB954;
+    font-weight: bold;
+}
+
+.code-link:hover {
+    text-decoration: underline;
+
 .title {
     text-align: center;
     margin: 0 auto 30px;
@@ -208,6 +216,15 @@ p {
     margin-top: 50px;
 }
 
+.projects a {
+    font-weight: bold;
+    color: #1DB954;
+}
+
+.projects a:hover {
+    text-decoration: underline;
+}
+
 .projects .col-2 {
     text-align: center;
     padding-right: 25px;
@@ -317,4 +334,5 @@ p {
     .profile img {
       max-width: 100%;
     }
+
   }
