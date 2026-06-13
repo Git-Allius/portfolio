@@ -54,10 +54,6 @@ p {
     color: white;
 }  
 
-h2 {
-    color: white;
-}
-
 .code-link {
     color: #1DB954;
     font-weight: bold;
@@ -78,6 +74,7 @@ h2 {
 .subtitle {
     font-weight: bold;
     font-size: 20px;
+    color: white;
 }
 
 /* containers */
@@ -221,24 +218,9 @@ h2 {
     margin-top: 50px;
 }
 
-.projects a {
-    font-weight: bold;
-    color: #1DB954;
-}
-
-.projects a:hover {
-    text-decoration: underline;
-}
-
 .projects .col-2 {
     padding-right: 25px;
     padding-left: 25px;
-    transition-duration: 0.5s;
-}
-
-.projects .col-2:hover {
-    transform: translateY(-5px);
-    transition-duration: 0.5s;
 }
 
 .projects img {
