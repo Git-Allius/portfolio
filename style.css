@@ -54,6 +54,10 @@ p {
     color: white;
 }  
 
+h2 {
+    color: white;
+}
+
 .code-link {
     color: #1DB954;
     font-weight: bold;
@@ -71,7 +75,7 @@ p {
     color: white;
 }
 
-.label {
+.subtitle {
     font-weight: bold;
     font-size: 20px;
 }
@@ -238,7 +242,7 @@ p {
 }
 
 .projects img {
-    width: 300px;
+    width: 100%;
 }
 
 /* About Me */
